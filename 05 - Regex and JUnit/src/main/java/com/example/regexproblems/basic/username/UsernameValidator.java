@@ -1,4 +1,4 @@
-package com.example.regexproblems.basic;
+package com.example.regexproblems.basic.username;
 
 import java.util.regex.Pattern;
 

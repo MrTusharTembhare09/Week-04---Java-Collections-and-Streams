@@ -1,4 +1,4 @@
-package com.example.regexproblems.basic;
+package com.example.regexproblems.basic.username;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
